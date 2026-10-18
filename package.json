@@ -1,0 +1,14 @@
+{
+  "name": "bypass",
+  "version": "1.0.0",
+  "description": "Termux-friendly URL inspector for Earnlink-style links",
+  "main": "bypass.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bypass.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
